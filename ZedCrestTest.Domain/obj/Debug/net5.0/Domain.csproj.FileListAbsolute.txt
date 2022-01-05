@@ -1,0 +1,12 @@
+C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Domain\bin\Debug\net5.0\Domain.deps.json
+C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Domain\bin\Debug\net5.0\Domain.dll
+C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Domain\bin\Debug\net5.0\Domain.pdb
+C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Domain\obj\Debug\net5.0\Domain.dll
+C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Domain\obj\Debug\net5.0\Domain.pdb
+C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache

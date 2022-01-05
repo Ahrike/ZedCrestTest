@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "ZedCrestTest.Api\Api.csproj", "{0386146D-DF83-4874-BBFE-A999AF22BC60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "ZedCrestTest.Application\Application.csproj", "{9F579E33-1BC9-441A-A5F3-355475076B8A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "ZedCrestTest.Domain\Domain.csproj", "{E6851345-A6BB-45B6-BFEF-EB52A7429014}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "ZedCrestTest.Infrastructure\Infrastructure.csproj", "{2EEA004F-ADCD-4D36-87FB-7597863C76AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "ZedCrestTest.Persistence\Persistence.csproj", "{C7BF0D04-D4A3-44D9-B687-19541DD833F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackGroundServices", "ZedCrestTest.BackGroundServices\BackGroundServices.csproj", "{98CA7C78-260A-4D0B-AB4B-30BC3FDB502C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0386146D-DF83-4874-BBFE-A999AF22BC60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0386146D-DF83-4874-BBFE-A999AF22BC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0386146D-DF83-4874-BBFE-A999AF22BC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0386146D-DF83-4874-BBFE-A999AF22BC60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F579E33-1BC9-441A-A5F3-355475076B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F579E33-1BC9-441A-A5F3-355475076B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F579E33-1BC9-441A-A5F3-355475076B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F579E33-1BC9-441A-A5F3-355475076B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6851345-A6BB-45B6-BFEF-EB52A7429014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6851345-A6BB-45B6-BFEF-EB52A7429014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6851345-A6BB-45B6-BFEF-EB52A7429014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6851345-A6BB-45B6-BFEF-EB52A7429014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EEA004F-ADCD-4D36-87FB-7597863C76AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EEA004F-ADCD-4D36-87FB-7597863C76AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EEA004F-ADCD-4D36-87FB-7597863C76AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EEA004F-ADCD-4D36-87FB-7597863C76AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7BF0D04-D4A3-44D9-B687-19541DD833F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7BF0D04-D4A3-44D9-B687-19541DD833F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7BF0D04-D4A3-44D9-B687-19541DD833F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7BF0D04-D4A3-44D9-B687-19541DD833F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98CA7C78-260A-4D0B-AB4B-30BC3FDB502C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CA7C78-260A-4D0B-AB4B-30BC3FDB502C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CA7C78-260A-4D0B-AB4B-30BC3FDB502C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CA7C78-260A-4D0B-AB4B-30BC3FDB502C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D72F3430-CAEF-4ABB-B317-81AE99EF5216}
+	EndGlobalSection
+EndGlobal

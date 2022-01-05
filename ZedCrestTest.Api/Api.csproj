@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="9.0.0"/>
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="5.0.6"/>
+    <PackageReference Include="Serilog" Version="2.10.0"/>
+    <PackageReference Include="Serilog.AspNetCore" Version="4.1.0"/>
+    <PackageReference Include="Serilog.Sinks.File" Version="4.1.0"/>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.6"/>
+    <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.22"/>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="5.0.0"/>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ZedCrestTest.Infrastructure\Infrastructure.csproj"/>
+    <ProjectReference Include="..\ZedCrestTest.Persistence\Persistence.csproj"/>
+    <ProjectReference Include="..\ZedCrestTest.Application\Application.csproj"/>
+    <ProjectReference Include="..\ZedCrestTest.BackGroundServices\BackGroundServices.csproj"/>
+  </ItemGroup>
+</Project>
