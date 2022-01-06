@@ -42,7 +42,7 @@ namespace ZedCrestTest
             services.AddMediatR(typeof(Register.Handler).Assembly);
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "ZedCrestTest", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "ZedCrestCodeTest", Version = "v1" });
             });
             services.Configure<CloudinarySettings>(Configuration.GetSection("Cloudinary"));
             services.Configure<SendGridSettings>(Configuration.GetSection("SendGrid"));
@@ -68,7 +68,7 @@ namespace ZedCrestTest
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "ZedCrestTest v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "ZedCrestCodeTest"));
             }
 
             app.UseRouting();

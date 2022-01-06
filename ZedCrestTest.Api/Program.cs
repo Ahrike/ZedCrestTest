@@ -15,7 +15,7 @@ namespace ZedCrestTest
         public static void Main(string[] args)
         {
             var config = new ConfigurationBuilder()
-                        .AddJsonFile("appsettings.Development.json", optional: false)
+                        .AddJsonFile("appsettings.Development.json", optional: true)
 
                         .Build();
 

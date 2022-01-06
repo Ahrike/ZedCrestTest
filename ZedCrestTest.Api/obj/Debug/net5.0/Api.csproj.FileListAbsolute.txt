@@ -107,8 +107,8 @@ C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Api\obj\Debug\net5.0\staticweba
 C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Api\obj\Debug\net5.0\staticwebassets\Api.StaticWebAssets.xml
 C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Api\obj\Debug\net5.0\scopedcss\bundle\Api.styles.css
 C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Api\obj\Debug\net5.0\Api.RazorTargetAssemblyInfo.cache
-C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Api\obj\Debug\net5.0\Api.csproj.CopyComplete
 C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Api\obj\Debug\net5.0\Api.dll
 C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Api\obj\Debug\net5.0\ref\Api.dll
 C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Api\obj\Debug\net5.0\Api.pdb
 C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Api\obj\Debug\net5.0\Api.genruntimeconfig.cache
+C:\inetpub\wwwroot\ZedCrestCodeTest\ZedCrestTest.Api\obj\Debug\net5.0\Api.csproj.CopyComplete
